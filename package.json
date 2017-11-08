@@ -1,6 +1,6 @@
 {
 	"name": "interactive-npm-version",
-	"version": "0.0.1",
+	"version": "1.0.0",
 	"description": "Interactive npm version selector ideally used with git hooks.",
 	"license": "MIT",
 	"repository": "peterforgacs/interactive-npm-version",
